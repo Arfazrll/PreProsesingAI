@@ -1,4 +1,4 @@
- 🤖 PreProsesingAI
+# 🤖 PreProsesingAI
 
 A comprehensive collection of Machine Learning and Deep Learning implementations showcasing various algorithms, techniques, and preprocessing pipelines across multiple domains.
 
